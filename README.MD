@@ -1,3 +1,5 @@
+
+## Note: This is update of the template found [her](https://github.com/rameshkunwar/dotNetFramework4.x.x-ReactJS-template) with React JS 17.x.x and Webpack 5.
 ### React JS template for ASP.NET MVC/Web API (.net framework 4.x.x).
 
 Webpack is configured in a way it injects scripts and styles inside _Layout.cshtml based on a template file _Template.cshtml.
